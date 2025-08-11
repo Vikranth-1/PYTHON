@@ -1,0 +1,5 @@
+st=input("Enter a string: ")  
+o=input("Enter a substring: ")  
+n=input("Enter the new substring: ")  
+r= st.replace(o,n)
+print("The modified string is:",r)

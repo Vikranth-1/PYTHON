@@ -1,0 +1,5 @@
+st=input("Enter a string: ")  
+ss= st.split()  
+j="-".join(ss)  
+print("The split string is:",ss)  
+print("The joined string is:",j)
